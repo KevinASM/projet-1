@@ -1,0 +1,178 @@
+html{margin:0;
+	 padding:0}
+	  
+body{background-color:gray;
+	 margin:0;
+	 padding:0;
+	 font-family:  "Copperplate", fantasy;
+}
+
+nav{width:960px;
+	height:auto;
+	text-align:right;
+	padding:0;
+	margin:0;
+	vertical-align:middle;}
+	
+footer {
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  width:960px;
+  height: 40px;
+  color: white;
+  text-align:center;
+}
+	   
+	 
+a:hover{background-color:#404040 }
+
+h1 {color:white;font:32px Helvetica;font-style:italic}
+
+h2 {color:white;
+    font:26px Helvetica;}
+
+p {color:white;
+   font:20px helvetica;
+   margin:0;padding:10px}
+
+
+input.n {display:inline-block;
+		 float:right}
+
+
+#logo {padding-bottom:;
+	   display:inline-block;
+	   text-align:left;
+	   vertical-align:middle;
+	   float:right}
+
+#images{float:left;
+		margin: 10px}
+
+#main{width:960px;
+		   height:auto;
+		   margin:0 auto;
+		   padding:0}
+
+#images{width:960px;
+		height:auto;
+		float:left}
+
+#overlay{border-bottom:1px solid white;
+		 border-top:1px solid white;
+		 height:auto;
+		 overflow:auto}
+
+#box {width:230px}
+
+textarea {height:300px;
+		  width:600px;
+		  padding:0;
+		  margin:0}
+
+
+------------------------
+#menu ul {
+ list-style:none;
+ margin:0;
+ padding:0;
+}
+
+li {
+ list-style:none;
+}
+
+/* items del menu */
+
+#menu ul li {
+ background-color:#2e518b;
+}
+
+/* enlaces del menu */
+
+#menu ul a {
+ display:block;
+ color:#fff;
+ text-decoration:none;
+ font-weight:400;
+ font-size:15px;
+ padding:10px;
+ font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ text-transform:uppercase;
+ letter-spacing:1px;
+}
+
+/* items del menu */
+
+#menu ul li {
+ position:relative;
+ float:left;
+ margin:0;
+ padding:0;
+}
+
+/* efecto al pasar el ratón por los items del menu */
+
+#menu ul li:hover {
+ background:#5b78a7;
+}
+
+/* menu desplegable */
+
+#menu ul ul {
+ display:none;
+ position:absolute;
+ top:100%;
+ left:0;
+ background:#eee;
+ padding:0;
+}
+
+/* items del menu desplegable */
+
+#menu ul ul li {
+ float:none;
+ width:150px
+}
+
+/* enlaces de los items del menu desplegable */
+
+#menu ul ul a {
+ line-height:120%;
+ padding:10px 15px;
+}
+
+/* items del menu desplegable al pasar el ratón */
+
+#menu ul li:hover > ul {
+ display:block;
+}
+
+.red-listing, .white-listing, .steps-arrow-listing {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.red-listing li:before {
+    background-position: -465px -853px;
+    line-height: 18px;
+    position: absolute;
+    top: 2px;
+    content: "";
+    height: 19px;
+    left: 0;
+    width: 19px;
+}
+#imagesP{
+	width:320px;
+	height:320px;
+}
+.col-md-4 {
+    width: 33.33333333%;
+	float: left;
+	    
+}
+#icon{
+	width: 100px;
+}

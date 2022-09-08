@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Marketing Pro</title>
+<link rel="stylesheet"  href="css/layout.css">
+</head>
+<body>
+<div id="main">
+
+<nav id="menu">
+<a href="./index.html"><img id="logo" src="images/logo.png" height=60px alt="logo" /></a>
+<ul>
+  <li><a href="./index.html">Home</a></li>
+  <li><a href="./aboutus.html">About Us</a>
+    <ul>
+      <li><a href="./company.html">Company</a></li>
+      <li><a href="./ourteam.html">Our Team</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Services</a>
+	<ul>
+      <li><a href="./seo1.html">SEO Expert</a></li>
+      <li><a href="#">PPC Expert</a></li>
+      <li><a href="#">CRO Expert</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Resources</a>
+  <ul>
+      <li><a href="#">FAQs</a></li>
+      <li><a href="#">Videos</a></li>
+      <li><a href="#">Articles</a></li>
+	  <li><a href="#">Blog</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Contact us</a></li>
+</ul>
+</nav>
+
+<img id="images" src="images/image1.jpg" alt="virtualemployee"/>
+<img id="images" src="images/image2.jpg" alt="software"  />
+<img id="images" src="images/image3.jpg" alt="funnel"  />
+<img id="images" src="images/image4.jpg" alt="neoattack"  />
+
+<footer>All rigths Reserved 2022<br></footer>
+</body>
+</html>

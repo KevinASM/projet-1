@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Marketing Pro</title>
+<link rel="stylesheet"  href="css/layout.css">
+</head>
+<body>
+<div id="main">
+
+<nav id="menu">
+<a href="./index.html"><img id="logo" src="images/logo.png" height=60px alt="logo" /></a>
+<ul>
+  <li><a href="./index.html">Home</a></li>
+  <li><a href="./aboutus.html">About Us</a>
+    <ul>
+      <li><a href="./company.html">Company</a></li>
+      <li><a href="./ourteam.html">Our Team</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Services</a>
+	<ul>
+      <li><a href="#">SEO Expert</a></li>
+      <li><a href="#">PPC Expert</a></li>
+      <li><a href="#">CRO Expert</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Resources</a>
+  <ul>
+      <li><a href="#">FAQs</a></li>
+      <li><a href="#">Videos</a></li>
+      <li><a href="#">Articles</a></li>
+	  <li><a href="#">Blog</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Contact us</a></li>
+</ul>
+</nav>
+<br><br><br>
+<div>
+                <div class=" col-md-4 ">
+					<div >
+                        <p>
+                            <i ><img id="icon" src="images/icon1.jpg"/></i>
+                        </p>
+
+                        <h5>Begin before you Buy</h5>
+						<p>Virtual Employee offers 1-week free trial with your SEO expert. This should give you enough time to make an informed decision.</p>
+                    </div>
+                </div>
+                <div class=" col-md-4 ">
+                    <div >
+                        <p>
+                            <i ><img id="icon" src="images/icon2.jpg"/></i>
+                        </p>
+
+                        <h5>Dedicated Employees</h5>
+						<p>Enjoy complete exclusivity and ownership with Virtual Employee’s dedicated SEO professionals.</p>
+                    </div>
+                </div>
+                <div class=" col-md-4 ">
+                    <div >
+                        <p>
+                            <i ><img id="icon" src="images/icon3.jpg"/></i>
+                        </p>
+						<h5>Pre-screened Candidates</h5>
+						<p>VE only shares CVs of pre-screened and stringently tested candidates to ensure that you hire only qualified and experienced personnel.</p>
+                    </div>
+                </div>
+				<div class=" col-md-4 ">
+					<div >
+                        <p>
+                            <i ><img id="icon" src="images/icon4.jpg"/></i>
+                        </p>
+						<h5>Value for Money</h5>
+						<p>SEO experts charge a significant amount due to their technical skills but you can hire them at a fraction of the local cost with VE.</p>
+                    </div>                   
+                </div>
+                <div class=" col-md-4 ">
+                    <div >
+                        <p>
+                            <i ><img id="icon" src="images/icon5.jpg"/></i>
+                        </p>
+                        <h5>Zero Overheads</h5>
+						<p>Pay only for your hired resource’s work and nothing else. VE takes care of everything including infrastructure and logistics.</p>
+                    </div>
+                </div>
+                <div class=" col-md-4 ">
+                    <div >
+                        <p>
+                            <i ><img id="icon" src="images/icon6.jpg"/></i>
+                        </p>
+                        <h5>Diverse Experience</h5>
+						<p>Now, you can have a mixed bag of skills with junior, mid and manager level SEO professionals, all with different domain expertise.</p>
+                    </div>
+                </div>
+				<div class=" col-md-4 ">
+                    <div >
+                        <p>
+                            <i ><img id="icon" src="images/icon7.jpg"/></i>
+                        </p>
+                        <h5>Diverse Experience</h5>
+						<p>Now, you can have a mixed bag of skills with junior, mid and manager level SEO professionals, all with different domain expertise.</p>
+                    </div>
+                </div>
+				<div class=" col-md-4 ">
+                    <div >
+                        <p>
+                            <i ><img id="icon" src="images/icon8.jpg"/></i>
+                        </p>
+                        <h5>Diverse Experience</h5>
+						<p>Now, you can have a mixed bag of skills with junior, mid and manager level SEO professionals, all with different domain expertise.</p>
+                    </div>
+                </div>
+				<div class=" col-md-4 ">
+                    <div >
+                        <p>
+                            <i ><img id="icon" src="images/icon9.jpg"/></i>
+                        </p>
+                        <h5>Diverse Experience</h5>
+						<p>Now, you can have a mixed bag of skills with junior, mid and manager level SEO professionals, all with different domain expertise.</p>
+                    </div>
+                </div>
+            </div>
+	
+<footer>All rigths Reserved 2022<br></footer>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Marketing Pro</title>
+<link rel="stylesheet"  href="css/layout.css">
+</head>
+<body>
+<div id="main">
+
+<nav id="menu">
+<a href="./index.html"><img id="logo" src="images/logo.png" height=60px alt="logo" /></a>
+<ul>
+  <li><a href="./index.html">Home</a></li>
+  <li><a href="./aboutus.html">About Us</a>
+    <ul>
+      <li><a href="./company.html">Company</a></li>
+      <li><a href="./ourteam.html">Our Team</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Services</a>
+	<ul>
+      <li><a href="#">SEO Expert</a></li>
+      <li><a href="#">PPC Expert</a></li>
+      <li><a href="#">CRO Expert</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Resources</a>
+  <ul>
+      <li><a href="#">FAQs</a></li>
+      <li><a href="#">Videos</a></li>
+      <li><a href="#">Articles</a></li>
+	  <li><a href="#">Blog</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Contact us</a></li>
+</ul>
+</nav>
+<br><br>
+<div class="container clear">
+	<div class="">
+	<h2 class="nomargin section-wide-xs no-padding-top">Mission</h2>
+	<p>To empower companies, especially Small and Medium Enterprises (SMEs), around the globe with a better alternative to traditional outsourcing by providing them their own dedicated employees and Office in the Cloud. Our motto is, <a href="./index.html"><i>“Same Quality but at Significantly Lower Costs”</i></a></p>
+	<p></p></div>
+	<div class="">
+	<h2 class="nomargin section-wide-xs">Vision</h2>
+	<p>To be a one-stop destination for cloud-based services, offering innovative, cost-effective but high-quality business offshoring solutions for both, small and large companies around the world, by providing highly skilled virtual employees in every domain and field.</p>
+	<p></p></div>
+	<img id="images" src="images/company1.jpg" alt="Company"  />
+	
+	<div class="">
+	<h2 class="nomargin section-wide-xs">Employees</h2>
+	<p>Our employees are drawn from all over India, which boasts one of the largest technical talent pools in the world. These professionals hail from fields ranging from software development, engineering, architecture, website development, graphics designing to SEO, content, legal and medical services, animation and much more.</p>
+	<p>A client can hire as few as one remote employee or build an entire virtual team of as many employees as they want.</p><br><br>
+	</div>
+</div>
+
+<footer>All rigths Reserved 2022<br></footer>
+</body>
+</html>

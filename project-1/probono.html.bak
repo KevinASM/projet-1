@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Marketing Pro</title>
+<link rel="stylesheet"  href="css/layout.css">
+</head>
+<body>
+<div id="main">
+
+<nav id="menu">
+<a href="./index.html"><img id="logo" src="images/logo.png" height=60px alt="logo" /></a>
+<ul>
+  <li><a href="./index.html">Home</a></li>
+  <li><a href="./aboutus.html">About Us</a>
+    <ul>
+      <li><a href="./company.html">Company</a></li>
+      <li><a href="./ourteam.html">Our Team</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Services</a>
+	<ul>
+      <li><a href="#">SEO Expert</a></li>
+      <li><a href="#">PPC Expert</a></li>
+      <li><a href="#">CRO Expert</a></li>
+	  <li><a href="./probono.html">Pro Bono</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Resources</a>
+  <ul>
+      <li><a href="#">FAQs</a></li>
+      <li><a href="#">Videos</a></li>
+      <li><a href="#">Articles</a></li>
+	  <li><a href="#">Blog</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Contact us</a></li>
+</ul>
+</nav>
+
+<br><p><br><br>Charities the world over can hire Virtual Employees for Free! Giving back to the society, to the community, is important to us. And if you give what you are best at, then that giving becomes all the more meaningful and relevant. What we are best at is remote staffing – providing remote employees who are experts in diverse domains and professions. And such skilled remote employees are what we wish to give charities the world over. </p>
+
+	<ul>
+		<li>Troubled by monetary limitations?</li><br>
+		<li>Finding it tough to hire the right people?</li><br>
+		<li>High salaries a cause for dismay?</li><br>
+		<li>By letting us support you, you channelize your precious funds into the cause </li><br>
+	</ul>
+	
+	<img id="images" src="images/unique1.jpg" alt="virtualemployee"/>
+	
+<footer>All rigths Reserved 2022<br></footer>
+</body>
+</html>
